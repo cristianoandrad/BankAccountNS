@@ -1,0 +1,16 @@
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\bin\Debug\net5.0\BankAccountNS.exe
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\bin\Debug\net5.0\BankAccountNS.deps.json
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\bin\Debug\net5.0\BankAccountNS.runtimeconfig.json
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\bin\Debug\net5.0\BankAccountNS.runtimeconfig.dev.json
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\bin\Debug\net5.0\BankAccountNS.dll
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\bin\Debug\net5.0\ref\BankAccountNS.dll
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\bin\Debug\net5.0\BankAccountNS.pdb
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\obj\Debug\net5.0\BankAccountNS.csproj.AssemblyReference.cache
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\obj\Debug\net5.0\BankAccountNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\obj\Debug\net5.0\BankAccountNS.AssemblyInfoInputs.cache
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\obj\Debug\net5.0\BankAccountNS.AssemblyInfo.cs
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\obj\Debug\net5.0\BankAccountNS.csproj.CoreCompileInputs.cache
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\obj\Debug\net5.0\BankAccountNS.dll
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\obj\Debug\net5.0\ref\BankAccountNS.dll
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\obj\Debug\net5.0\BankAccountNS.pdb
+C:\Users\candrades\source\repos\BankAccountNS\BankAccountNS\obj\Debug\net5.0\BankAccountNS.genruntimeconfig.cache
